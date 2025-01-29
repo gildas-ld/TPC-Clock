@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">VPT#016-TPC - Tomato Potato Clock</string>
-    <string name="anleitung">Welcome to Tomato Potato Clock. This is a classic pomodoro timer (this version: distraction-free). Right now: Alternating sections of 25 and 5 minutes - running in perpetuity (till stop/close app). \n\nIf you found this app, you know what kind of person you are ;). Hence, there no options at all and you also cannot pause the timer. This is part of the design of this app. Good luck with your endeavours.\n\nGifted to you be Valentin ♥️.
+    <string name="app_name">Pomodoro - Tomato Potato Clock</string>
+    <string name="anleitung">Bienvenue à l’horloge Tomato Potato.\n\nIl s’agit d’un minuteur pomodoro classique (cette version : sans
+    distraction).\n\nEn ce moment : Alternance de sections de 25 et 5 minutes - à perpétuité (jusqu’à ce que vous
+    arrêtiez/fermiez l’application). Si vous avez trouvé cette application, vous savez quel genre de personne vous êtes
+    ;).\n\nIl n’y a donc pas d’options du tout et vous ne pouvez pas non plus mettre le minuteur en pause. Cela fait partie
+    de la conception de cette application.\n\nBonne chance dans vos démarches. Cadeau de Valentin ♥️.
 
     </string>
 
@@ -16,5 +20,5 @@
 
     <string name="infobuttontextforblinds">Information Button (gives you Information)</string>
     <string name="powertools">Valentin\'s PowerTools #016</string>
-    <string name="app_name_show">Tomato Potato Clock</string>
+    <string name="app_name_show">Pomodoro - Tomato Potato Clock</string>
 </resources>
