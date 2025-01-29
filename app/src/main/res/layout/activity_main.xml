@@ -6,19 +6,18 @@
     android:layout_height="match_parent"
     android:background="#000000">
 
-    <v4lpt.vpt.c016.TPC.CircleTimerView
+    <Pomodoro_Potato.TPC.CircleTimerView
         android:id="@+id/circleTimerView"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        app:layout_constraintDimensionRatio="1:1"
-        app:layout_constraintWidth_percent="0.8"
-        app:layout_constraintHeight_percent="0.8"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintVertical_bias="0.218"
-        app:layout_constraintHorizontal_bias="0.218" />
+        app:layout_constraintHeight_percent="0.8"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.8" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/backButton"
