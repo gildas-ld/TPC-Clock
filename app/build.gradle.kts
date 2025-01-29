@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace = "v4lpt.vpt.c016.TPC"
+    namespace = "Pomodoro_Potato.TPC"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "v4lpt.vpt.c016.TPC"
-        minSdk = 24
+        applicationId = "Pomodoro_Potato.TPC"
+        minSdk = 33
         targetSdk = 34
         versionCode = 103
-        versionName = "1.0.3"
+        versionName = "1.0.4"
     }
     dependenciesInfo {
         // Disables dependency metadata when building APKs.
@@ -29,8 +29,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
     }
     buildFeatures {
         viewBinding = true
